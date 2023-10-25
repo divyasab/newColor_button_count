@@ -1,0 +1,81 @@
+*{
+  box-sizing:border-box;
+
+}
+.color_box1{
+    border:solid 1px red;
+    width:718px;
+    height:260px;
+    margin:0px auto;
+}
+.color_box2{
+    border:solid 1px blue;
+    width:380px;
+    height:200px;
+    margin:0px auto;
+    margin-top:18px;
+}
+.color_count{
+    border:solid 1px blue;
+    width:716px;
+    height:180px;
+    margin:0px auto;
+}
+.color_count1{
+    border:solid 1px red;
+    width:292px;
+    height:50px;
+    float:left;
+}
+.color_count2{
+    border:solid 1px red;
+    width:292px;
+    height:50px;
+    float:right;
+}
+.color_count3{
+    border:solid 1px red;
+    width:292px;
+    height:50px;
+    margin-top:76px;
+    float:left;
+}
+.color_count4{
+    border:solid 1px red;
+    width:292px;
+    height:50px;
+    margin-left:130px;
+    margin-top:76px;
+    float:left;
+}
+.color_button1{
+    border:solid 1px blue;
+    width:716px;
+    height:270px;
+    margin:0px auto;
+}
+.color{
+    border:solid 1px red;
+    width:357px;
+    height:135px;
+    text-align:center;
+    float:left;
+
+ }
+button{
+    padding:10px;
+    width:100px;
+}
+.red_button1{
+    background:red;
+}
+.green_button1{
+    background:green;
+}
+.yellow_button1{
+    background:yellow;
+}
+.blue_button1{
+    background:blue;
+}
+
